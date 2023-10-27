@@ -1,5 +1,7 @@
-# api
+# API
 # Automatic Package Installer
+
+Uses the PIGET package library to look up the command: http://tgcch.byethost7.com/piget/pl.php?filter=
 
 API installation: https://raw.githubusercontent.com/mnd0929/api-apps/main/updatecommand.txt (Elevation required)
 

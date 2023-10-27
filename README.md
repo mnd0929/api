@@ -3,7 +3,9 @@
 
 Uses the PIGET package library to look up the command: http://tgcch.byethost7.com/piget/pl.php?filter=
 
-API installation: https://raw.githubusercontent.com/mnd0929/api-apps/main/updatecommand.txt (Elevation required)
+API GUI Installation: https://github.com/mnd0929/API-Installer/releases/tag/api-installer
+
+API Console Installation: https://raw.githubusercontent.com/mnd0929/api-apps/main/updatecommand.txt (Elevation required)
 
 API help: https://raw.githubusercontent.com/mnd0929/api-apps/main/help
 

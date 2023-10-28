@@ -10,6 +10,8 @@ API Console Installation: https://raw.githubusercontent.com/mnd0929/api-apps/mai
 
 API help: https://raw.githubusercontent.com/mnd0929/api-apps/main/help
 
+<!> False positives of antiviruses are possible - the application does not have a digital signature
+
 # Package structure
 The package must be a ZIP archive and contain the installer.bat file.
 After downloading the package, the API unpacks it and runs the installer.bat command line script.

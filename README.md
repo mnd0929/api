@@ -19,7 +19,6 @@ API installation methods:
 
 
 
-# PIGET
 # Quick Install Script Library
 PIGET is a public QISL (Quick Install Script Library). Users can create and install scripts, which can be quickly accessed through the API (Automatic Package Installer) console program.
 

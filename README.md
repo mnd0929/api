@@ -1,8 +1,14 @@
 ![icons8-контроль-96](https://github.com/mnd0929/api/assets/92184643/956c2169-9e51-4a0d-ae66-18a4ef69a5b1)
-# API
-# Automatic Package Installer
 
-Uses the PIGET package library to look up the command: http://tgcch.byethost7.com/piget/pl.php?filter=
+# API
+[![Releases](https://img.shields.io/badge/Latest_Release-red)](https://github.com/mnd0929/api/releases)
+[![Discord](https://img.shields.io/badge/Discord-blue)](https://discord.gg/x7xMShAzck)
+
+Quick Installation Script Manager (QISL). Uses the PIGET package library.
+
+[Help](https://raw.githubusercontent.com/mnd0929/api-apps/main/help) | [PIGET](http://tgcch.byethost7.com/piget/pl.php?filter=) | feedback@xon-4de.ru | support@xon-4de.ru 
+
+# Installation
 
 API installation methods:
 - [API Console Installation](https://raw.githubusercontent.com/mnd0929/api-apps/main/updatecommand.txt) (Requires bitsadmin)
@@ -10,7 +16,7 @@ API installation methods:
 
 <!> False positives of antiviruses are possible - the application does not have a digital signature
 
-[Help](https://raw.githubusercontent.com/mnd0929/api-apps/main/help) | feedback@xon-4de.ru | support@xon-4de.ru 
+
 
 
 # PIGET

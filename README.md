@@ -16,6 +16,8 @@ API installation methods:
 - [API Console Installation](https://raw.githubusercontent.com/mnd0929/api-apps/main/updatecommand.txt) (Requires bitsadmin)
 - [API GUI Installation](https://github.com/mnd0929/API-Installer/releases)
 
+<?> Supported platforms: win-x86, win-x64
+
 <!> False positives of antiviruses are possible - the application does not have a digital signature
 
 

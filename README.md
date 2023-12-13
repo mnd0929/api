@@ -4,13 +4,18 @@
 
 Uses the PIGET package library to look up the command: http://tgcch.byethost7.com/piget/pl.php?filter=
 
-API GUI Installation: https://github.com/mnd0929/API-Installer/releases
-
-API Console Installation: https://raw.githubusercontent.com/mnd0929/api-apps/main/updatecommand.txt (Elevation required)
-
-API help: https://raw.githubusercontent.com/mnd0929/api-apps/main/help
+API installation methods:
+- [API Console Installation](https://raw.githubusercontent.com/mnd0929/api-apps/main/updatecommand.txt) (Requires bitsadmin)
+- [API GUI Installation](https://github.com/mnd0929/API-Installer/releases)
 
 <!> False positives of antiviruses are possible - the application does not have a digital signature
+
+[Help](https://raw.githubusercontent.com/mnd0929/api-apps/main/help) | feedback@xon-4de.ru | support@xon-4de.ru 
+
+
+# PIGET
+# Quick Install Script Library
+PIGET is a public QISL (Quick Install Script Library). Users can create and install scripts, which can be quickly accessed through the API (Automatic Package Installer) console program.
 
 # Package structure
 The package must be a ZIP archive and contain the installer.bat file.

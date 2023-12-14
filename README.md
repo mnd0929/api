@@ -16,7 +16,7 @@ API installation methods:
 - [API Console Installation](https://raw.githubusercontent.com/mnd0929/api-apps/main/updatecommand.txt) (Requires bitsadmin)
 - [API GUI Installation](https://github.com/mnd0929/API-Installer/releases)
 
-<!> Supported platforms: win-x86, win-x64
+<!> Supported platforms: ```win-x86```, ```win-x64```
 
 <!> False positives of antiviruses are possible - the application does not have a digital signature
 
@@ -27,9 +27,9 @@ API installation methods:
 PIGET is a public QISL (Quick Install Script Library). Users can create and install scripts, which can be quickly accessed through the API (Automatic Package Installer) console program.
 
 # Package structure
-The package must be a ZIP archive and contain the installer.bat file.
+The package must be a ZIP archive and contain the ```installer.bat``` file.
 After downloading the package, the API unpacks it and runs the installer.bat command line script.
-The API also passes arguments entered by the user after the package name. (api targ 1 2 3 4 5)
+The API also passes arguments entered by the user after the package name. (```api targ 1 2 3 4 5```)
 
 # How do I register my QISL package with PIGET? (API 4.7.3+)
 - Enter the ```api -piget``` command into the console without administrator rights.
